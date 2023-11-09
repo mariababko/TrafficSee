@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T01:08:14.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="H47OD9WozzCtSs1SprFq" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T20:48:50.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mJnAZyCjK2v0cUg7-3k_" version="22.1.0" type="github">
   <diagram name="Page-1" id="Xf0QJX8aAJHHUgm_mSM7">
-    <mxGraphModel dx="1222" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="450" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,7 +208,7 @@
         <mxCell id="_ZCJ5re8EEPpJNoZFqDm-2" value="EndTime" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="640" y="560" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eyBxckeFbB-jRQiT932D-1" value="Name" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="eyBxckeFbB-jRQiT932D-1" value="EventName" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
